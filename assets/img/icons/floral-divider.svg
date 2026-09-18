@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 40" width="300" height="40">
+  <path d="M10,20 L110,20 M190,20 L290,20" stroke="#C79D4C" stroke-width="1" stroke-dasharray="4 4" opacity="0.7"/>
+  <!-- Central botanical leaf motif -->
+  <circle cx="150" cy="20" r="4" fill="#C79D4C"/>
+  <path d="M150,16 C144,10 134,14 136,20 C142,20 148,18 150,16 Z" fill="#7D8B6F" opacity="0.9"/>
+  <path d="M150,16 C156,10 166,14 164,20 C158,20 152,18 150,16 Z" fill="#7D8B6F" opacity="0.9"/>
+  <path d="M150,24 C144,30 134,26 136,20 C142,20 148,22 150,24 Z" fill="#7D8B6F" opacity="0.9"/>
+  <path d="M150,24 C156,30 166,26 164,20 C158,20 152,22 150,24 Z" fill="#7D8B6F" opacity="0.9"/>
+  <circle cx="125" cy="20" r="2.5" fill="#C79D4C" opacity="0.8"/>
+  <circle cx="175" cy="20" r="2.5" fill="#C79D4C" opacity="0.8"/>
+</svg>
